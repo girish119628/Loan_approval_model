@@ -1,5 +1,7 @@
 # **Loan_Approval_Model**
 
+This project presents an end-to-end Data Analytics pipeline for analyzing startup funding trends in India using Python, MySQL, and Power BI. It involves data cleaning, transformation, storage in a relational database, and visual storytelling via a dynamic dashboard.
+
 # [[Team_Explanation_Video](https://drive.google.com/file/d/1zZj66fAu6XQGJF4Jxu7QfcZMNtZHZ-C5/view?usp=sharing)]
 # [[Self_Explanation_Video](https://drive.google.com/file/d/1Ju4os0bsRvV5sI3jsAS-ykEPjuFYhbT2/view?usp=drive_link)]
 
