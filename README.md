@@ -1,4 +1,4 @@
-# **Loan_approval_model**
+# **Loan_Approval_Model**
 
 
 # 📌 1. Data Cleaning & Preprocessing
@@ -74,13 +74,8 @@
 
 * Business interpretation (e.g., which factors most affect loan approval?)
 
-# Suggestions for stakeholders or product improvement
+# Team members:
 
-💾 Model Deployment:
-
-If you're applying for Data Science roles, show deployment (Flask app or Streamlit or even just saving the model with sample input/output in a function).
-
-✅ Ready for GitHub & LinkedIn
-Yes, just clean the code for unused imports and remove comments like "Commented out IPython magic".
-
-Add a README.md for GitHub with summary, features, dataset source (if public), libraries used, and screenshots of visuals.
+  * Komal Yadav 
+  * Girish Kumar 
+  * Komal Gupta 
