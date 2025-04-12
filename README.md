@@ -25,56 +25,56 @@
 
 # Suggestions:
 
-For categorical variables, consider using groupby() with .mean() or .value_counts(normalize=True) to understand their relation with the target variable (loan_status).
+  * For categorical variables, consider using groupby() with .mean() or .value_counts(normalize=True) to understand their relation with the target variable (loan_status).
 
-Use pairplot or violin plots for deeper distribution insights (optional).
+  * Use pairplot or violin plots for deeper distribution insights (optional).
 
-🧠 3. Model Training
-✔️ Used a variety of classification models: Logistic Regression, Decision Tree, Random Forest, SVM, and Gradient Boosting.
+# 🧠 3. Model Training
+  ✔️ Used a variety of classification models: Logistic Regression, Decision Tree, Random Forest, SVM, and Gradient Boosting.
 
-✔️ Built a reusable pipeline with preprocessing and modeling.
+  ✔️ Built a reusable pipeline with preprocessing and modeling.
 
-✔️ Evaluated using Accuracy, Precision, Recall, and F1-Score.
+  ✔️ Evaluated using Accuracy, Precision, Recall, and F1-Score.
 
-✔️ Created a visual comparison across models (bar plots).
+  ✔️ Created a visual comparison across models (bar plots).
 
-✔️ Plotted confusion matrices for all models.
+  ✔️ Plotted confusion matrices for all models.
 
-Suggestions:
+# Suggestions:
 
-Consider using StratifiedKFold cross-validation with cross_val_score for robust model evaluation instead of a single train-test split.
+  * Consider using StratifiedKFold cross-validation with cross_val_score for robust model evaluation instead of a single train-test split.
 
-You might also try XGBoost or LightGBM for better performance in real-world cases.
+  * You might also try XGBoost or LightGBM for better performance in real-world cases.
 
-🔍 4. Hyperparameter Tuning
-✔️ Set up param_grids for multiple models using GridSearchCV.
+# 🔍 4. Hyperparameter Tuning
+  ✔️ Set up param_grids for multiple models using GridSearchCV.
 
-Suggestions:
+# Suggestions:
 
-You might want to isolate and run the GridSearch for the best-performing model (e.g., RandomForest or GradientBoosting).
+  * You might want to isolate and run the GridSearch for the best-performing model (e.g., RandomForest or GradientBoosting).
 
-Save the best model using joblib or pickle for deployment or reuse.
+  * Save the best model using joblib or pickle for deployment or reuse.
 
-📁 What You Can Add
-📝 Project Summary Markdown Cell at the top with:
 
-Problem Statement
+# 📝 Project Summary Markdown Cell at the top with:
 
-Business Objective
+  * Problem Statement
 
-Dataset Overview
+  * Business Objective
 
-Key Steps (EDA, Feature Engg, Modeling)
+  * Dataset Overview
 
-Final Conclusion (which model performed best and why)
+  * Key Steps (EDA, Feature Engg, Modeling)
 
-📌 Conclusion/Insights Section:
+  * Final Conclusion (which model performed best and why)
 
-Final choice of model
+# 📌 Conclusion/Insights Section:
 
-Business interpretation (e.g., which factors most affect loan approval?)
+* Final choice of model
 
-Suggestions for stakeholders or product improvement
+* Business interpretation (e.g., which factors most affect loan approval?)
+
+# Suggestions for stakeholders or product improvement
 
 💾 Model Deployment:
 
