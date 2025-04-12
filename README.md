@@ -1,6 +1,6 @@
 # **Loan_Approval_Model**
 
-
+# video link: [https://drive.google.com/file/d/1zZj66fAu6XQGJF4Jxu7QfcZMNtZHZ-C5/view?usp=drive_link]
 # 📌 1. Data Cleaning & Preprocessing
   ✔️ Removal of unwanted spaces in column names and values (str.strip()) is excellent.
 
